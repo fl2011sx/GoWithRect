@@ -1,0 +1,8 @@
+[{"id":"0","name":"hero","type":"dynamic","x":"5","y":"3.333333333","length":"0.2","width":"0.2","vx":"0","vy":"0","density":"0","friction":"0","restitution":"0.3","colorR":"255","colorG":"50","colorB":"0"},
+{"id":"2","name":"ground","type":"static","x":"5","y":"0.025","length":"0.05","width":"5","vx":"0","vy":"0","density":"0","friction":"0","restitution":"0.3","colorR":"255","colorG":"255","colorB":"255"},
+{"id":"3","name":"leftWall","type":"static","x":"0.025","y":"3.083333333","length":"3.033333333","width":"0.05","vx":"0","vy":"0","density":"0","friction":"0","restitution":"0.3","colorR":"255","colorG":"255","colorB":"255"},
+{"id":"4","name":"sky","type":"static","x":"5","y":"6.641666666","length":"0.05","width":"5","vx":"0","vy":"0","density":"0","friction":"0","restitution":"0.3","colorR":"255","colorG":"255","colorB":"255"},
+{"id":"5","name":"rightWall","type":"static","x":"9.95","y":"3.333333333","length":"3.333333333","width":"0.05","vx":"0","vy":"0","density":"0","friction":"0","restitution":"0.3","colorR":"255","colorG":"255","colorB":"255"},
+{"id":"6","name":"sta1","type":"static","x":"0.6","y":"3.583333333","length":"3.033333333","width":"0.05","vx":"0","vy":"0","density":"0","friction":"0","restitution":"0.3","colorR":"255","colorG":"255","colorB":"255"},
+{"id":"7","name":"sta2","type":"static","x":"1.2","y":"3.083333333","length":"3.033333333","width":"0.05","vx":"0","vy":"0","density":"0","friction":"0","restitution":"0.3","colorR":"255","colorG":"255","colorB":"255"},
+{"id":"8","name":"sta3","type":"static","x":"2.6","y":"3.583333333","length":"3.033333333","width":"0.05","vx":"0","vy":"0","density":"0","friction":"0","restitution":"0.3","colorR":"255","colorG":"255","colorB":"255"}]

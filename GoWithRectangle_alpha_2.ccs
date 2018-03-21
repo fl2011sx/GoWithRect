@@ -1,0 +1,62 @@
+<Solution>
+  <PropertyGroup Name="GoWithRectangle_alpha_2" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Image Name="0.png" />
+        <Image Name="1.png" />
+        <Image Name="1d.png" />
+        <Image Name="1n.png" />
+        <Image Name="1p.png" />
+        <Image Name="2d.png" />
+        <Image Name="2n.png" />
+        <Image Name="2p.png" />
+        <Image Name="3d.png" />
+        <Image Name="3n.png" />
+        <Image Name="3p.png" />
+        <Image Name="4d.png" />
+        <Image Name="4n.png" />
+        <Image Name="4p.png" />
+        <Image Name="5d.png" />
+        <Image Name="5n.png" />
+        <Image Name="5p.png" />
+        <Image Name="black.png" />
+        <Image Name="break.png" />
+        <Image Name="close.png" />
+        <Image Name="close2.png" />
+        <Image Name="dataRestart.png" />
+        <Image Name="dataRestart2.png" />
+        <Project Name="dataRestartAlert.csd" Type="Layer" />
+        <Image Name="HelloWorld.png" />
+        <Image Name="home.png" />
+        <Image Name="home2.png" />
+        <Project Name="MenuScene.csd" Type="Scene" />
+        <Image Name="next.png" />
+        <Image Name="next1.png" />
+        <Image Name="no.png" />
+        <Image Name="no2.png" />
+        <Project Name="PassScene.csd" Type="Scene" />
+        <Image Name="passTest.png" />
+        <Image Name="pause.png" />
+        <Project Name="PlaygroundScene.csd" Type="Scene" />
+        <Project Name="PlaygroundSetting.csd" Type="Layer" />
+        <Image Name="redo.png" />
+        <Image Name="redo2.png" />
+        <Image Name="setting.png" />
+        <Image Name="setting2.png" />
+        <Project Name="SettingScene.csd" Type="Scene" />
+        <Project Name="SuccessScene.csd" Type="Scene" />
+        <Image Name="teach.png" />
+        <Image Name="teach1.png" />
+        <Image Name="teach11.png" />
+        <Image Name="teach2.png" />
+        <Image Name="teach3.png" />
+        <Image Name="teach4.png" />
+        <Project Name="TeachScene.csd" Type="Scene" />
+        <Image Name="test01.png" />
+        <Image Name="yes.png" />
+        <Image Name="yes2.png" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
